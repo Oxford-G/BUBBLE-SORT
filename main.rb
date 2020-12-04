@@ -1,6 +1,6 @@
 def bubble_sort(value)
   result = true
-  
+
   while result
     i = 0
     result = false
